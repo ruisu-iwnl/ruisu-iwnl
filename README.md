@@ -12,7 +12,11 @@ Shell: PowerShell 7.4 / Git Bash
 Languages: Python, PHP, JavaScript
 Markup/Style: HTML5, CSS3, Tailwind CSS,
               Bootstrap 5
-Discord: ruisu_iwnl
+System Specs:
+  CPU: AMD Ryzen 7 5700G
+  GPU: Radeon RX 6700 XT
+  RAM: 16GB DDR4
+  Drives: 1TB SSD / 1TB HDD
 ```
 
 <p align="left">
