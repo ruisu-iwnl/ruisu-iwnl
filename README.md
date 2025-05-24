@@ -2,7 +2,14 @@
 > neofetch
 ```
 
-<img align="left" src="https://static.wikia.nocookie.net/schedule-1/images/5/53/Benji_Mugshot.png/revision/latest?cb=20250403014259" alt="idk" width="320" /> 
+<div style="display: flex; align-items: flex-start;">
+  <img 
+    src="https://static.wikia.nocookie.net/schedule-1/images/5/53/Benji_Mugshot.png/revision/latest?cb=20250403014259" 
+    alt="idk" 
+    width="320"
+    style="flex-shrink: 0;"
+  />
+  <pre style="margin: 0 0 0 1rem; font-family: monospace; line-height: 1; white-space: pre;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⡠⡢⡢⡢⡤⡠⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢠⢪⢲⢱⢱⢱⢱⢱⢱⢱⢱⢢⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⡰⡱⡱⡱⡱⡱⡱⡱⡱⡱⡱⡱⡱⡱⡀⠀⠀⠀⠀⠀
@@ -16,6 +23,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⢇⢖⢲⠸⠱⠁⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⡀⡄⢕⠠⢂⢐⠨⡈⢆⢤⣀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⢔⣗⢝⢌⢂⢊⠐⠄⠅⢌⠢⡱⡵⡽⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  </pre>
+</div>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```csharp
 ruisu-iwnl@github
 -------------------------
