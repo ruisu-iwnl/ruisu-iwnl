@@ -1,10 +1,8 @@
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <span style="font-size: 48px; font-weight: bold;">Hello there 👋</span>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hobXAxeWtyd21vMW1wcmFzcHN0bG95bXdlM281MWtweGJwMzh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Erx4cu7f9IBi/giphy.gif" width="250px" title="Hello there">
-</p>
+<h1 align="center">Hello there 👋</h1> 
 
 
----
+<p align="center"> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hobXAxeWtyd21vMW1wcmFzcHN0bG95bXdlM281MWtweGJwMzh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Erx4cu7f9IBi/giphy.gif" width="400px" title="Hello there"> </p>
 
 <!-- Social Links -->
 <p align="center">
