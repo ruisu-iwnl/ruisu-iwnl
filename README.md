@@ -30,8 +30,6 @@
   <img alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60px" title="Jupyter">
 </p>
 
----
-
 <!-- GitHub Snake Contribution Graph -->
 <p align="center">
   <img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
