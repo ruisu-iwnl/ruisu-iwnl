@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+<h1 align="center">Hello there ...</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hello there ...">
