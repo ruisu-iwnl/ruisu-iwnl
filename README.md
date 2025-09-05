@@ -5,7 +5,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hobXAxeWtyd21vMW1wcmFzcHN0bG95bXdlM281MWtweGJwMzh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Erx4cu7f9IBi/giphy.gif" width="400px" title="Hello there"> </p>
 
 <!-- Social Links -->
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:e.luis.pelaez@gmail.com">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="60" title="Gmail">
   </a>
@@ -14,10 +14,9 @@
   </a>
 </p>
 
----
+--- -->
 
 <!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" title="Python">
