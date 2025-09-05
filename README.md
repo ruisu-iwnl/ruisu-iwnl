@@ -16,7 +16,7 @@
   <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px" title="css3">
   <img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100px" title="php">
   <img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px" title="vscode">
-  <img alt="luau" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Luau_Logo_%28Programming_Language%29.svg/512px-Luau_Logo_%28Programming_Language%29.svg.png" width="100px" title="Roblox Lua (Luau)">
+  <img alt="luau" src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" width="100px" title="Roblox Luau">
   <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px" title="github">
   <img alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
 </p>
