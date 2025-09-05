@@ -10,16 +10,17 @@
 [<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/ruisuiwnl/)
 
 <p align="left">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="php" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" title="php">
-  <img alt="vscode" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" title="vscode">
-  <img alt="roblox lua" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" title="roblox lua">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100px" title="django"> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100px" title="postgresql"> -->
+  <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100px" title="python">
+  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px" title="javascript">
+  <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px" title="html">
+  <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px" title="css">
+  <img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100px" title="php">
+  <img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px" title="vscode">
+  <img alt="roblox lua" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Roblox_logo_black.svg" width="100px" title="roblox lua">
+  <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px" title="github">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100px" title="django">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100px" title="postgresql"> -->
 </p>
 
 <!-- Other Tools
